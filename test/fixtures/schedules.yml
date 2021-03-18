@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  calendar_id: 1
+  start: 2021-03-18 19:30:12
+  end: 2021-03-18 19:30:12
+  location: MyString
+
+two:
+  title: MyString
+  calendar_id: 1
+  start: 2021-03-18 19:30:12
+  end: 2021-03-18 19:30:12
+  location: MyString
